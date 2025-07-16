@@ -39,7 +39,7 @@ DL-Project/
 🔍 Dataset
 This project uses the Amazon Fashion dataset from UCSD.
 📥 Download: Amazon Fashion Dataset
-Required Files:
+Required Files: https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/
 
 meta_Clothing_Shoes_and_Jewelry.json (metadata, ~8.2 GB)
 Clothing_Shoes_and_Jewelry.json (user reviews)
