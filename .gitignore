@@ -1,0 +1,13 @@
+# Ignore large raw data files
+data/*.zip
+data/*.csv
+
+# Ignore checkpoints and large model files if needed
+models/*.pt
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+*.DS_Store
+Thumbs.db
