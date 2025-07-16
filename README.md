@@ -10,6 +10,8 @@ Robust Evaluation: Computes Recall@5 and NDCG@5 across multiple categories.
 
 
 📂 Project Structure
+
+``` bash
 DL-Project/
 ├── data/ # ⚠ Local only (excluded from repo)
 │   ├── preprocessed_fashion_data.pkl
@@ -26,6 +28,7 @@ DL-Project/
 ├── evaluate.py # Batch evaluation (Recall@5, NDCG@5)
 ├── streamlit_app.py # Streamlit interface
 └── README.md # Project documentation
+```
 
 
 🔍 Dataset
