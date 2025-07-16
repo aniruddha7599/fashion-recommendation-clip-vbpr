@@ -85,6 +85,8 @@ Run Demo: streamlit run streamlit_app.py (access at http://localhost:8501).
 
 🖼️ Demo
 
+![alt text](https://github.com/aniruddha7599/fashion-recommendation-clip-vbpr/blob/main/example.png)
+
 Select a user and categories to see top recommendations with images.
 
 📝 Notes
