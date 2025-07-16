@@ -92,11 +92,6 @@ Run Demo: streamlit run streamlit_app.py (access at http://localhost:8501).
 
 Select a user and categories to see top recommendations with images.
 
-📝 Notes
-
-data/ and models/ are local-only; use the ZIP file for data.
-Missing images use a default gray image (224x224).
-Future: Fine-tune CLIP with fashion data, enhance diversity.
 
 
 🤝 Contributing
@@ -105,5 +100,3 @@ Fork, create a feature branch, commit, push, and open a PR.
 📧 Contact
 Contact me via GitHub.
 
-📜 License
-MIT License. See LICENSE for details.
